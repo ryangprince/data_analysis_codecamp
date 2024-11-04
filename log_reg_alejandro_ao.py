@@ -5,4 +5,5 @@
 # * Link to kaggle data set: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 
-
+import pandas as pd
+import seaborn as sns
